@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 PH ou Pedro Henrique,é um verdadeiro pernambucano,nascido e criado nas belas terras de Pernambuco.
-Desenvolvedor Front-End. Ele estudou incasavelmente, mesmo quando os desafios financeiros e a falta de recursos tentaram impedi-lo.
+Desenvolvedor Front-End. Ele estudou incansavelmente, mesmo quando os desafios financeiros e a falta de recursos tentaram impedi-lo.
 cada linha de código que escreveu o aproxima de seu sonho: usar suas habilidades para ajudar a família.
 <br>
 <br>
